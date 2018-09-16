@@ -1,0 +1,2 @@
+- [Antes de começar](https://github.com/ABase-BR/Virtualizacao/blob/master/Antes-de-comecar-virtualizacao.md)
+- [O que é Virtualização?](https://github.com/ABase-BR/Virtualizacao/blob/master/O-que-e-virtualizacao.md)
